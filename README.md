@@ -21,7 +21,7 @@ This project is a database design for a forum system, created as part of a MySQL
 - Each article is linked to an administrator in the **Users** table.
 - Each comment is linked to a user and an article.
 
-![Database Schema](https://scontent.fsof10-1.fna.fbcdn.net/v/t1.15752-9/462545440_1131648101704191_6180902365819924860_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Wloli6dxKtkQ7kNvgFAAcsO&_nc_zt=23&_nc_ht=scontent.fsof10-1.fna&oh=03_Q7cD1QHjwPFFqzL7cQkVKYE8zYDuGyDYVPxuBbhorMxXn7Zm2Q&oe=6763C1F7)
+![Click here to view the schema](https://scontent.fsof10-1.fna.fbcdn.net/v/t1.15752-9/462545440_1131648101704191_6180902365819924860_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Wloli6dxKtkQ7kNvgFAAcsO&_nc_zt=23&_nc_ht=scontent.fsof10-1.fna&oh=03_Q7cD1QHjwPFFqzL7cQkVKYE8zYDuGyDYVPxuBbhorMxXn7Zm2Q&oe=6763C1F7)
 
 ## Installation
 1. Clone the repository:
