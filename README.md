@@ -30,5 +30,5 @@ To view the database schema, click the link below:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MySQL_Project.git
+   git clone https://github.com/pslavchev11/MySQL_Project.git
 
